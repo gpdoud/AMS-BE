@@ -188,7 +188,9 @@
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AMS_Context.cs" />
+    <Compile Include="Models\Asset.cs" />
     <Compile Include="Models\Location.cs" />
+    <Compile Include="Models\ServiceHistory.cs" />
     <Compile Include="Models\User.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Utility\JsonNetResult.cs" />
